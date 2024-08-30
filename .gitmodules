@@ -1,0 +1,96 @@
+[submodule "atom_map/indigo"]
+	path = atom_map/indigo
+	url = https://gitlab.com/mlpds_mit/askcosv2/atom_map/indigo.git
+[submodule "atom_map/rxnmapper"]
+	path = atom_map/rxnmapper
+	url = https://gitlab.com/mlpds_mit/askcosv2/atom_map/rxnmapper.git
+[submodule "atom_map/wln"]
+	path = atom_map/wln
+	url = https://gitlab.com/mlpds_mit/askcosv2/atom_map/wln.git
+[submodule "forward_predictor/augmented_transformer"]
+	path = forward_predictor/augmented_transformer
+	url = https://gitlab.com/mlpds_mit/askcosv2/forward_predictor/augmented_transformer.git
+[submodule "forward_predictor/graph2smiles"]
+	path = forward_predictor/graph2smiles
+	url = https://gitlab.com/mlpds_mit/askcosv2/forward_predictor/graph2smiles.git
+[submodule "forward_predictor/wldn5"]
+	path = forward_predictor/wldn5
+	url = https://gitlab.com/mlpds_mit/askcosv2/forward_predictor/wldn5.git
+[submodule "retro/augmented_transformer"]
+	path = retro/augmented_transformer
+	url = https://gitlab.com/mlpds_mit/askcosv2/retro/augmented_transformer.git
+[submodule "retro/graph2smiles"]
+	path = retro/graph2smiles
+	url = https://gitlab.com/mlpds_mit/askcosv2/retro/graph2smiles.git
+[submodule "retro/retrosim"]
+	path = retro/retrosim
+	url = https://gitlab.com/mlpds_mit/askcosv2/retro/retrosim.git
+[submodule "retro/template_relevance"]
+	path = retro/template_relevance
+	url = https://gitlab.com/mlpds_mit/askcosv2/retro/template_relevance.git
+[submodule "tree_search/expand_one"]
+	path = tree_search/expand_one
+	url = https://gitlab.com/mlpds_mit/askcosv2/tree_search/expand_one.git
+[submodule "tree_search/mcts"]
+	path = tree_search/mcts
+	url = https://gitlab.com/mlpds_mit/askcosv2/tree_search/mcts.git
+[submodule "tree_search/retro_star"]
+	path = tree_search/retro_star
+	url = https://gitlab.com/mlpds_mit/askcosv2/tree_search/retro_star.git
+[submodule "askcos-vue-nginx"]
+	path = askcos-vue-nginx
+	url = https://github.com/FourThievesVinegar/askcos-vue-nginx.git
+[submodule "askcos2_core"]
+	path = askcos2_core
+	url = https://github.com/FourThievesVinegar/askcos2_core.git
+[submodule "cluster"]
+	path = cluster
+	url = https://gitlab.com/mlpds_mit/askcosv2/cluster.git
+[submodule "context_recommender"]
+	path = context_recommender
+	url = https://gitlab.com/mlpds_mit/askcosv2/context_recommender.git
+[submodule "count_analogs"]
+	path = count_analogs
+	url = https://gitlab.com/mlpds_mit/askcosv2/count_analogs.git
+[submodule "descriptors"]
+	path = descriptors
+	url = https://gitlab.com/mlpds_mit/askcosv2/descriptors.git
+[submodule "evaluate_reactions"]
+	path = evaluate_reactions
+	url = https://gitlab.com/mlpds_mit/askcosv2/evaluate_reactions.git
+[submodule "fast_filter"]
+	path = fast_filter
+	url = https://gitlab.com/mlpds_mit/askcosv2/fast_filter.git
+[submodule "general_selectivity"]
+	path = general_selectivity
+	url = https://gitlab.com/mlpds_mit/askcosv2/general_selectivity.git
+[submodule "impurity_predictor"]
+	path = impurity_predictor
+	url = https://gitlab.com/mlpds_mit/askcosv2/impurity_predictor.git
+[submodule "legacy_descriptors"]
+	path = legacy_descriptors
+	url = https://gitlab.com/mlpds_mit/askcosv2/legacy_descriptors.git
+[submodule "legacy_solubility"]
+	path = legacy_solubility
+	url = https://gitlab.com/mlpds_mit/askcosv2/legacy_solubility.git
+[submodule "pathway_ranker"]
+	path = pathway_ranker
+	url = https://gitlab.com/mlpds_mit/askcosv2/pathway_ranker.git
+[submodule "pmi_calculator"]
+	path = pmi_calculator
+	url = https://gitlab.com/mlpds_mit/askcosv2/pmi_calculator.git
+[submodule "qm_descriptors"]
+	path = qm_descriptors
+	url = https://gitlab.com/mlpds_mit/askcosv2/qm_descriptors.git
+[submodule "reaction_classification"]
+	path = reaction_classification
+	url = https://gitlab.com/mlpds_mit/askcosv2/reaction_classification.git
+[submodule "scscore"]
+	path = scscore
+	url = https://gitlab.com/mlpds_mit/askcosv2/scscore.git
+[submodule "site_selectivity"]
+	path = site_selectivity
+	url = https://gitlab.com/mlpds_mit/askcosv2/site_selectivity.git
+[submodule "solubility"]
+	path = solubility
+	url = https://gitlab.com/mlpds_mit/askcosv2/solubility.git
